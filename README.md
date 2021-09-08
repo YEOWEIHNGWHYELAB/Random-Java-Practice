@@ -1,1 +1,3 @@
 # Random-Java-Practice
+
+This contains random Java code I have thought of... 
