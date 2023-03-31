@@ -1,4 +1,4 @@
 # IDEA files
 /CS2113T-Epilogue/.idea/
 /CS2113T-Epilogue/out/
-/CS2113T-Epilogue/*.iml/
+**.iml
