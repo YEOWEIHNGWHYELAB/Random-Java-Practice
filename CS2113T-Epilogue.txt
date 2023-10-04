@@ -1,4 +1,0 @@
-1) new Bar().read(); Page 27
-2) Static Methods?
-3) Private Constructor?
-4) Hash Map & How does Hash Map in our TP work?
